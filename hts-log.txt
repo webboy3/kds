@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 31 Dec 2025 07:50:38 at https://timelounge.at +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://timelounge.at -O1 "C:\My Web Sites\kds" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:53:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://timelounge.at/_nuxt/32d524f330a7df7f5476.js (from https://timelounge.at/)
+07:53:01	Warning: 	Retry after error -5 (Unable to get server's address: This is usually a temporary error during hostnam) at link https://p.typekit.net/p.css?s=1&k=jup8qok&ht=tk&f=14032.14034.14036.14038&a=1606706&app=typekit&e=css (from https://timelounge.at/)
+07:53:13	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://p.typekit.net/p.css?s=1&k=jup8qok&ht=tk&f=14032.14034.14036.14038&a=1606706&app=typekit&e=css (from https://timelounge.at/)
+07:56:58	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://p.typekit.net/p.css?s=1&k=jup8qok&ht=tk&f=14032.14034.14036.14038&a=1606706&app=typekit&e=css (from https://timelounge.at/)
+07:58:32	Warning: 	Retry after error 502 (Bad Gateway) at link https://timelounge.at/gebrauchte-luxusuhren/8t0602 (from https://timelounge.at/gebrauchte-luxusuhren/c082505)
+07:58:32	Warning: 	Retry after error 502 (Bad Gateway) at link https://timelounge.at/gebrauchte-luxusuhren/6r1301 (from https://timelounge.at/gebrauchte-luxusuhren/c082505)
+07:58:32	Warning: 	Retry after error 502 (Bad Gateway) at link https://timelounge.at/_nuxt/img/1d5c996.svg (from https://timelounge.at/gebrauchte-luxusuhren/c060503)
+08:02:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://timelounge.at/gebrauchte-luxusuhren/c081401 (from https://timelounge.at/gebrauchte-luxusuhren/c112402)
+08:02:56	Warning: 	Retry after error 502 () at link https://timelounge.at/gebrauchte-luxusuhren/8t0602 (from https://timelounge.at/gebrauchte-luxusuhren/c082505)
+08:03:18	Error: 	"" (502) after 2 retries at link https://timelounge.at/gebrauchte-luxusuhren/8t0602 (from https://timelounge.at/gebrauchte-luxusuhren/c082505)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 40 seconds : 284 links scanned, 273 files written (59472004 bytes overall) [16897067 bytes received at 22232 bytes/sec], 53463136 bytes transferred using HTTP compression in 156 files, ratio 20%, 3.0 requests per connection
+(2 errors, 8 warnings, 0 messages)
